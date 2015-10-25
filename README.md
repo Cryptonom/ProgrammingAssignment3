@@ -6,3 +6,4 @@ and merges the training and the test sets to create one data set.
 Them it eextracts only the measurements on the mean and standard deviation for each measurement
 and adds descriptive activity names to name the activities in the data set and labels the data set 
 with variable names. 
+The result is a dataset as described in the cookbook.
